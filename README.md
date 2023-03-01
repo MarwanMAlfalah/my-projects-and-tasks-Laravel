@@ -1,6 +1,19 @@
 <<<<<<< HEAD
 # My-Projects-and-Tasks
 This project was built to meet the needs of the user in organizing his time by coordinating projects in an orderly manner.
+
+
+## Home page
+![Logo](https://www.linkpicture.com/q/Home_3.jpg)
+
+
+## Profile page
+![Logo](https://www.linkpicture.com/q/Profile_7.jpg)
+
+
+## Show page
+![Logo](https://www.linkpicture.com/q/Show_1.jpg)
+
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
